@@ -1,0 +1,9 @@
+Actividad - Implementación computacional
+
+Trabajo práctico sobre conceptos básicos e implementación de algoritmos de filtrado
+
+1) Adquirir una imagen que muestre una escena con perspectiva de profundidad (cámara digital, celular).
+
+2) Hacer una descripción técnica sobre las características de la imagen, características de la cámara de adquisición y una descripción informativa de la escena.
+
+3) Implementar un algoritmo computacional para llevar a cabo la detección de bordes mediante dos tipos de filtrado o métodos diferentes.
